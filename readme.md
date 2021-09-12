@@ -1,3 +1,4 @@
+```bash
 $ docker build -t alpine_apache2 .
 [+] Building 14.1s (11/11) FINISHED
 => [internal] load build definition from Dockerfile 0.1s
@@ -29,3 +30,4 @@ eb7dd09fe6dc4334bf5c189767e5f14c2491284f0669a4cea00573fb5a79c006
 
 $ docker stop AL04
 AL04
+```
